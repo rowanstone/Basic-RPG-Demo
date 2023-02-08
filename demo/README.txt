@@ -1,0 +1,1 @@
+To run the game demo, extract the files to an empty directory. Run the "CS4381_RPG.exe" file. In the pre-run configuration window, set the screen resolution to 1280 x 600 and make sure "Windowed" mode is enabled. Select "Play!" to run the game.
